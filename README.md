@@ -101,6 +101,32 @@ The Random Forest Regressor achieved higher predictive accuracy than the Linear 
 
 ---
 
+### 📷 Project Visualizations
+
+#### Correlation Matrix
+
+![Correlation Matrix](images/correlation_matrix.png)
+
+---
+
+#### Log Transformation
+
+![Log Transformation](images/log_transformation.png)
+
+---
+
+#### Linear Regression: Actual vs Predicted
+
+![Linear Regression](images/linear_regression.png)
+
+---
+
+#### Random Forest: Actual vs Predicted
+
+![Random Forest](images/random_forest.png)
+
+---
+
 ### 👤 Author
 
 **Konstantina Frangou**
