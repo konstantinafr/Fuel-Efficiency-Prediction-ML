@@ -1,10 +1,10 @@
-## 🚗 Fuel Efficiency Prediction using Machine Learning
+# 🚗 Fuel Efficiency Prediction using Machine Learning
 
 Predicting vehicle fuel efficiency (MPG) using machine learning regression models and comparing Linear Regression with Random Forest Regressor through a complete end-to-end data science workflow.
 
 ---
 
-### 📌 Project Overview
+## 📌 Project Overview
 
 This project predicts vehicle fuel efficiency (MPG) using supervised machine learning techniques.
 
@@ -17,7 +17,7 @@ The objective is to evaluate which model provides better predictive performance 
 
 ---
 
-### 📂 Dataset
+## 📂 Dataset
 
 The project uses the MPG dataset available through the Seaborn library.
 
@@ -36,7 +36,7 @@ The dataset contains the following vehicle characteristics:
 
 ---
 
-### ⚙️ Data Preprocessing
+## ⚙️ Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -49,19 +49,19 @@ The following preprocessing steps were performed:
 
 ---
 
-### 🤖 Models
+## 🤖 Models
 
-#### Linear Regression
+### Linear Regression
 
 A Linear Regression model was developed using a Scikit-Learn Pipeline with feature standardization.
 
-#### Random Forest Regressor
+### Random Forest Regressor
 
 A Random Forest model was trained using the same training and testing data to compare predictive performance.
 
 ---
 
-### 📊 Model Evaluation
+## 📊 Model Evaluation
 
 The models were evaluated using:
 
@@ -71,13 +71,13 @@ The models were evaluated using:
 
 ---
 
-### 📈 Results
+## 📈 Results
 
 The Random Forest Regressor achieved higher predictive accuracy than the Linear Regression model, demonstrating better performance for predicting vehicle fuel efficiency.
 
 ---
 
-### 🛠 Technologies
+## 🛠 Technologies
 
 - Python
 - Pandas
@@ -89,7 +89,7 @@ The Random Forest Regressor achieved higher predictive accuracy than the Linear 
 
 ---
 
-### 📌 Key Learning Outcomes
+## 📌 Key Learning Outcomes
 
 - Exploratory Data Analysis (EDA)
 - Data Preprocessing
@@ -101,32 +101,32 @@ The Random Forest Regressor achieved higher predictive accuracy than the Linear 
 
 ---
 
-### 📷 Project Visualizations
+## 📷 Project Visualizations
 
-#### Correlation Matrix
+### Correlation Matrix
 
 ![Correlation Matrix](images/correlation_matrix.png)
 
 ---
 
-#### Log Transformation
+### Log Transformation
 
 ![Log Transformation](images/log_transformation.png)
 
 ---
 
-#### Linear Regression: Actual vs Predicted
+### Linear Regression: Actual vs Predicted
 
 ![Linear Regression](images/linear_regression.png)
 
 ---
 
-#### Random Forest: Actual vs Predicted
+### Random Forest: Actual vs Predicted
 
 ![Random Forest](images/random_forest.png)
 
 ---
 
-### 👤 Author
+## 👤 Author
 
 **Konstantina Frangou**
